@@ -1,1 +1,2 @@
-# full_git_project_2026
+# full git project 2026
+This is a simple project for learning git and github.
